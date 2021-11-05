@@ -34,7 +34,7 @@ body {
 .header-link-logo {
   font-family: Raleway;
   font-style: normal;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -110,7 +110,7 @@ body {
 }
 .hero-button {
   font-style: normal;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   background: #2196f3;
@@ -121,7 +121,7 @@ body {
 }
 /* --------------------------------------------Assents-------------------- */
 .assets-head {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -129,7 +129,7 @@ body {
   color: var(--primary-text-color);
 }
 .assets-text {
-  font-weight: 40px;
+  font-weight: 40;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -137,7 +137,7 @@ body {
 }
 /* --------------------------------------------Doing-------------------- */
 .doing-head {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
@@ -145,7 +145,7 @@ body {
 }
 /* --------------------------------------------Our team-------------------- */
 .team-main-head {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
@@ -171,7 +171,7 @@ body {
 .footer-link {
   font-family: Raleway;
   font-style: normal;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -180,7 +180,7 @@ body {
 .logo-footer {
   font-family: Raleway;
   font-style: normal;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
