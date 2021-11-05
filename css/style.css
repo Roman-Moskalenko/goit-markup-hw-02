@@ -57,7 +57,7 @@ body {
   color: var(--primary-text-color);
 }
 .header-link:hover,
-.header-link :focus {
+.header-link:focus {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14px;
@@ -211,4 +211,37 @@ body {
 .footer-contacts-tell:hover,
 .footer-contacts-tell :focus {
   color: var(--accent-color);
+}
+/* --------------------------------------------Portfolio-------------------- */
+.portfolio-filter-item-button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+}
+.portfolio-filter-item-button:hover,
+.portfolio-filter-item-button:focus {
+  color: #ffffff;
+  background-color: var(--accent-color);
+}
+.portfolio-head {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--primary-text-color);
+}
+.portfolio-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: var(--title-text-color);
+}
+.portfolio-link:hover,
+.portfolio-link:focus {
+  color: var(--accent-color);
+  background-color: var(--accent-color);
 }
